@@ -22,3 +22,8 @@
 .toggle-indicator{
   font-size: 40px;
 }
+.accordion-description {
+  height: 0px;
+  overflow: hidden;
+  background-color: lightgreen;
+}
